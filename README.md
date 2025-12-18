@@ -1,4 +1,4 @@
-# Compliance Hub (Backend & DevOps Fork)
+# Compliance Hub
 
 ### Automated Violation Detection for Data Processing Agreements
 
